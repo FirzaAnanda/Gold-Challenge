@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "nanda123",
+    "database": "bingleshop",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "nanda123",
+    "database": "bingleshop",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "nanda123",
+    "database": "bingleshop",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
